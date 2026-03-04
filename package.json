@@ -1,0 +1,25 @@
+{
+  "name": "abc_alumnos_mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DodoMCanva/ABC_Alumnos_MongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DodoMCanva/ABC_Alumnos_MongoDB/issues"
+  },
+  "homepage": "https://github.com/DodoMCanva/ABC_Alumnos_MongoDB#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.2.3"
+  }
+}
